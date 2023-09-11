@@ -1,5 +1,0 @@
-
-- JavaScript
-- Java
-- Python
-- C#
