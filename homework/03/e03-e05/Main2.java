@@ -6,7 +6,7 @@ class Main {
       System.out.println("Anna nimesi");
         String nimi = c.readLine();
         
-        for(int i = 0; i < nimi.length(); i++) {
+        for(int i = nimi.length() -1; i >= 0; i--) {
             System.out.println(nimi.charAt(i));
 
         }

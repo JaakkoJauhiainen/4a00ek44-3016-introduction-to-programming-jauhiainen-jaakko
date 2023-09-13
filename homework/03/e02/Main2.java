@@ -1,8 +1,8 @@
 import java.io.Console;
 
-public class Main {
+public class Main2 {
     public static void main(String [] args) {
         String testi="    jee testi mafakaaas";
-    System.out.println(testi.charAt(10)); // tulostaa Stringistä 10 merkin alkaen nollasta
+    System.out.println(testi.length()); // tulostaa kuink mont merkkii on syötetty
     }
 }
