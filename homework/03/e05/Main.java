@@ -4,7 +4,7 @@ class Main {
     public static void main(String [] args) {
         Console c = System.console();
         
-        String muistio ="";
+        String muistio ="";             
         System.out.println("Anna nimi");
         String nimiyks = c.readLine();
         muistio += nimiyks;
